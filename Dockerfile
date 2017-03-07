@@ -14,3 +14,4 @@ CMD ["bash"]
 
 # Expose ports.
 EXPOSE 5901
+RUN ls
