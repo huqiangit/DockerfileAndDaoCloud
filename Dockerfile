@@ -1,2 +1,2 @@
-FROM daocloud.io/library/rabbitmq:latest
+FROM daocloud.io/library/centos:latest
 RUN yum install -y vim
